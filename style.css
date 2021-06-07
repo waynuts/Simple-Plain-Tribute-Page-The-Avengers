@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&family=Montserrat&display=swap');
+
+body {
+  font-family: Montserrat, sans-serif;
+  padding-top: 70px;
+  background-color: #eee;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#main {
+  text-align: center;
+  min-width: 400px;
+}
+
+#main h1 {
+  font-family: Montserrat, sans-serif;
+  font-size: 12vw;
+  margin: 0;
+  padding: 0;
+}
+
+#main p {
+  font-size: 8vw;
+  margin: 0;
+  padding: 0;
+}
+
+#img-div {
+  background-color: white;
+  padding: 15px;
+}
+
+#image {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-size: 95%;
+}
+
+#tribute-info {
+  width: 700px;
+  margin: 50px auto;
+}
+
+#tribute-info ul {
+  list-style-type: none;
+  padding: 5;
+  display: inline;
+}
+
+#trailer {
+  text-align: center;
+}
